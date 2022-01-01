@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Blood Donors List</string>
+    <string name="form_title">Register as Donor</string>
+    <string name="name">Name Here</string>
+    <string name="address">Address Here</string>
+    <string name="availability">Status Here</string>
+    <string name="phone">Availability Here</string>
+    <string name="avail">Available</string>
+    <string name="hidden">Hidden</string>
+    <string name="blood_group_logo">Blood Group Logo</string>
+    <string name="enter_search_text">Enter Search Text</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="type_address">Type Address</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="register">Register Yourself</string>
+    <string name="exit">Exit</string>
+    <string name="form_error">All Fields are Required</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string-array name="bloodgroup">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="available">
+        <item>Ready to Donate</item>
+        <item>Can not Donate Now</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Available</item>
+        <item>Hidden</item>
+    </string-array>
+
+</resources>
