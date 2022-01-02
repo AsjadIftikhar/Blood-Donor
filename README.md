@@ -26,7 +26,7 @@ It is created in Software for Mobile Devices Course during Fall 2021 by
 
 ### Sign Up Page
 
-![SignUp](SignUP.jpg)
+![SignUp](SignUp.jpg)
 
 ### Search in RecycleView
 
