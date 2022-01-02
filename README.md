@@ -22,19 +22,19 @@ It is created in Software for Mobile Devices Course during Fall 2021 by
 
 ### Home Page
 
-<img src="HomePage.jpg" alt="HomePage" width="500"/>
+<img src="HomePage.jpg" alt="HomePage" width="300"/>
 
 ### Sign Up Page
 
-<img src="SignUpHomePage.jpg" alt="SignUp" width="500"/>
+<img src="SignUp.jpg" alt="SignUp" width="300"/>
 
 ### Search in RecycleView
 
-<img src="SearchHomePage.jpg" alt="Search" width="500"/>
+<img src="Search.jpg" alt="Search" width="300"/>
 
 ### Contact
 
-<img src="Contact.jpg" alt="Contact" width="500"/>
+<img src="Contact.jpg" alt="Contact" width="300"/>
 
 ## Installation
 
