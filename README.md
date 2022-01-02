@@ -22,19 +22,19 @@ It is created in Software for Mobile Devices Course during Fall 2021 by
 
 ### Home Page
 
-<img src="HomePage.jpg" alt="HomePage" width="200"/>
+<img src="HomePage.jpg" alt="HomePage" width="500"/>
 
 ### Sign Up Page
 
-![SignUp](SignUp.jpg)
+<img src="SignUpHomePage.jpg" alt="SignUp" width="500"/>
 
 ### Search in RecycleView
 
-![Search](Search.jpg)
+<img src="SearchHomePage.jpg" alt="Search" width="500"/>
 
 ### Contact
 
-![contact](Contact.jpg)
+<img src="Contact.jpg" alt="Contact" width="500"/>
 
 ## Installation
 
@@ -47,7 +47,7 @@ Create Empty Android Project
 ```
 
 Step 2.
-![SDK](SDK.png)
+<img src="SDK.png" alt="HomePage" width="500"/>
 
 ```sh
 Make Sure to Use SDK Tool 30.0.2
